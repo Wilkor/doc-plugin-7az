@@ -21,7 +21,27 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 ![image](https://user-images.githubusercontent.com/34819624/215592036-439a51e5-5dfa-450a-86a3-f84615557072.png)
 
- 
+  - Depois que ativado, click no link abaixo para ativar a extensão no chrome de cada atendente.
+  
+  
+   Em seguida, usar no chrome:
+   
+   ![image](https://user-images.githubusercontent.com/34819624/208984825-6bb8e412-70f9-4d92-852b-90510b0ba778.png)
+
+
+  - Depois de ativado a extensão no Chrome, seu blipDesk ficará com esse icone.
+  
+  ![image](https://user-images.githubusercontent.com/34819624/208979059-2e8abae9-c1ae-4d9b-ba2c-4dfea2de5df2.png)
+
+  Ao clicar no icone em seu blipDesk, a tela abaixo irá aparecer na lateral direita da tela.
+  
+![image](https://user-images.githubusercontent.com/34819624/215597666-5b7cf952-6112-40a7-8c51-243d29a7352b.png)
+
+ - Após digitar o CPF do cliente os titulos em aberto irão aparecer conforme tela abaixo:
+ ![image](https://user-images.githubusercontent.com/34819624/215598417-abca371c-6eb6-4b7a-83eb-7fdca3d55ac3.png)
+
+
+
  
   Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
  
