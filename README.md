@@ -11,8 +11,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  
  # Como configurar a extensão?
  
+  - Se já é cliente da 7aZ, você precisa pegar o **X-API-Key** atravez desse email: **laura@7az.com.br**
+  
+  - Feito o processo acima, basta adicionar essa chave conforme tela abaixo:
+   
  ![image](https://user-images.githubusercontent.com/34819624/215591918-2dd2473e-c3cf-43fe-ab14-380d191245da.png)
 
+ - Clique em ativar para salvar as configurações
 
 ![image](https://user-images.githubusercontent.com/34819624/215592036-439a51e5-5dfa-450a-86a3-f84615557072.png)
 
