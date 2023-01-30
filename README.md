@@ -1,7 +1,7 @@
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
 
-# Como utilizar a extensão Transferência de tickets!
+# Como utilizar a extensão 7aZ!
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
