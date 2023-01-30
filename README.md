@@ -11,6 +11,12 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  
  # Como configurar o builder?
  
+ ![image](https://user-images.githubusercontent.com/34819624/215591918-2dd2473e-c3cf-43fe-ab14-380d191245da.png)
+
+
+![image](https://user-images.githubusercontent.com/34819624/215592036-439a51e5-5dfa-450a-86a3-f84615557072.png)
+
+ 
   - Nessa primeira etapa, você precisar criar um bloco chamado **Pre-Transbordo** (pode copiar do jeito que esta aqui) no builder dos bots de atendimentos conforme tela abaixo:
 
  ![image](https://user-images.githubusercontent.com/34819624/213001497-a1d9a43f-ffc8-4b99-803e-4834d2482067.png)
