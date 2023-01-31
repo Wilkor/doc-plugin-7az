@@ -40,7 +40,10 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  - Após digitar o CPF do cliente os titulos em aberto irão aparecer conforme tela abaixo:
  ![image](https://user-images.githubusercontent.com/34819624/215598417-abca371c-6eb6-4b7a-83eb-7fdca3d55ac3.png)
 
-
+ - Video de demonstração da Extensão:
+  
+  [![Watch the video](https://user-images.githubusercontent.com/34819624/215597666-5b7cf952-6112-40a7-8c51-243d29a7352b.png)](https://youtu.be/h36VpMgDjxk)
+  
 
  
   Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
