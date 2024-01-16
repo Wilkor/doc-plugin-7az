@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-7az/assets/34819624/14c5c013-94fb-4857-8633-5bfd77550307)
 
 # Como utilizar a extensão 7aZ!
 
